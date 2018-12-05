@@ -1,5 +1,5 @@
 {
-  "name": "@types/ts-muchi",
+  "name": "@types/muchi-ts",
   "version": "1.0.0",
   "description": "",
   "main": "index.d.ts",
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/machi1990/ts-muchi-types.git"
+    "url": "git+https://github.com/machi1990/muchi-ts-types.git"
   },
   "author": "Manyanda Chitimbo",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/machi1990/ts-muchi-types/issues"
+    "url": "https://github.com/machi1990/muchi-ts-types/issues"
   },
-  "homepage": "https://github.com/machi1990/ts-muchi-types#readme"
+  "homepage": "https://github.com/machi1990/muchi-ts-types#readme"
 }
