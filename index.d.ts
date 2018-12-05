@@ -1,4 +1,4 @@
-declare const TsMuchi: (...arg) => ClassDecorator;
+declare const MuchiTs: (...arg) => ClassDecorator;
 declare const Only: (...arg) => ClassDecorator;
 declare const Context: (...arg) => MethodDecorator;
 declare const After: MethodDecorator;
