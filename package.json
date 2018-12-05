@@ -1,0 +1,19 @@
+{
+  "name": "@types/ts-muchi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/machi1990/ts-muchi-types.git"
+  },
+  "author": "Manyanda Chitimbo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/machi1990/ts-muchi-types/issues"
+  },
+  "homepage": "https://github.com/machi1990/ts-muchi-types#readme"
+}
